@@ -37,7 +37,7 @@ window.addEventListener('scroll', handleScroll);
 
 document.addEventListener("DOMContentLoaded", function () {
   const options = {
-    strings: ['CWS', 'Coder', 'Designer', 'Programmer'],
+    strings: ['Sivachandran', 'Video Editor', 'Website manager', 'Gamer'],
     typeSpeed: 150,
     backSpeed: 50,
     backDelay: 3000,
